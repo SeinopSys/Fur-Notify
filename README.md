@@ -1,4 +1,5 @@
-# Fur-Notify
+<p align="center"><img src="https://raw.githubusercontent.com/SeinopSys/Fur-Notify/master/screenshots/chrome/notification.png" alt="Fur-Notify Chrome Notification Screenshot" width="300px"> <img src="https://raw.githubusercontent.com/SeinopSys/Fur-Notify/master/screenshots/chrome/popup.png" alt="Fur-Notify Chrome Popup Screenshot" width="300px"></p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/SeinopSys/Fur-Notify/master/furnotify/img/app-48.png" alt="Fur-Notify Extension Logo" height="30px"> Fur-Notify</h1>
 
 Keep track of your Furbooru notifications and messages in (almost) real time
 
