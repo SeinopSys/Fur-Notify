@@ -20,5 +20,6 @@ By default, the extension sends a notification and plays a sound when the total 
 ## Attributions
 
  - Notification sound: [Stairs](https://notificationsounds.com/message-tones/stairs-567) from [NotificationSounds.com](https://notificationsounds.com)
+ - Application icon: [designed](https://furbooru.org/images/0) by [Aureai](https://furbooru.org/profiles/Aureai)
  - Icons: [Font Awesome](https://fontawesome.com/license) v5.0.10
  - Color picker: [Spectrum](https://bgrins.github.io/spectrum/)
