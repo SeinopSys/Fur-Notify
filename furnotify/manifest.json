@@ -1,6 +1,6 @@
 {
 	"name": "Fur-Notify",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Keep track of your Furbooru notifications and messages in (almost) real time",
 	"applications": {
 		"gecko": {
@@ -11,9 +11,6 @@
 		"https://furbooru.org/",
 		"storage",
 		"notifications"
-	],
-  "optional_permissions": [
-		"https://furribooru.org/"
 	],
 	"background": {
 		"page": "background.html"
@@ -34,11 +31,7 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"https://furbooru.org/*",
-				"https://furbooru.net/*",
-				"https://furbooru.com/*",
-				"https://furribooru.org/*",
-				"https://thebooru.org/*"
+				"https://furbooru.org/*"
 			],
 			"js": [
 				"js/fur-notify.js"
