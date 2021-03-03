@@ -1,6 +1,6 @@
 {
 	"name": "Fur-Notify",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Keep track of your Furbooru notifications and messages in (almost) real time",
 	"applications": {
 		"gecko": {
